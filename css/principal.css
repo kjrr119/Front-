@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-image: url("../static/images/back\ 2.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  }
+
+.img-logo .logo{
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 4%;
+  border-radius: 100px;
+  left: calc(50% - 50px);
+
+}
+
+.img-carrito .carrito{
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 20px;
+  left: calc(100% - 100px);
+}
+
+.columnas{
+  width: 100%;
+  margin: auto;
+  padding-left: 50px;
+  padding-top: 15%;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+  
+}
+.columnas2{
+  width: 100%;
+  margin: auto;
+  padding-left: 50px;
+  padding-top: 23%;
+  margin-bottom: 50px;
+  box-sizing: border-box; 
+}
+
+.columnas3{
+  width: 100%;
+  margin: auto;
+  padding-left: 50px;
+  padding-top: 23%;
+  margin-bottom: 50px;
+  box-sizing: border-box;
+}
+
+
+.columnasx4{
+  width: 33%;
+  float: left;
+  padding:20px, 20px;
+  box-sizing: border-box;
+}  
+
+.producto {
+  width: 150px;
+  height: 150px;
+  transform: translate(50%,0%);
+  margin-top: 20px;
+}
+.caja{
+  float: right;
+  width: 300px;
+  height: 300px;
+  background-color: black;
+  color: whitesmoke;
+  margin-right:50px;
+  
+}
+
+
+
